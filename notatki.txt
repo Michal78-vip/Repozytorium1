@@ -1,6 +1,3 @@
-to jest plik notatki.txt
-
-
 =================== Rozdział 1 ======================
 Git jest systemem kontroli wersji
 pozwala na zdalne pracowanie z dokumentami oraz kodem
